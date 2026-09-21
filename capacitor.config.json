@@ -1,0 +1,8 @@
+{
+  "appId": "com.medbell.app",
+  "appName": "MedBell",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
